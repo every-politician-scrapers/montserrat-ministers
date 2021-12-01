@@ -1,2 +1,7 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q71333507,Easton Taylor-Farrell,Easton Taylor-Farrell,male,,,,,Q3245464,Premier of Montserrat,Q71333507-B9A2A612-03E7-429F-A4D6-A5C2E490ABB6
+Q104600729,Crenston Buffonge,Crenston Buffonge,male,1974-10-13,11,https://www.gov.ms/government/ministries/ministry-of-agriculture-lands-housing-environment/,2021-12-01,Q109849838,"Minister of Agriculture, Lands, Housing & Environment",Q104600729-B328C6DC-93D8-4D7C-91C3-86CE8D6FDC58
+Q109849924,Charles Kirnon,Charles Kirnon,,,,https://www.gov.ms/government/ministries/ministry-of-education-youth-affairs-sports/,2021-12-01,Q109849930,Minister of Education,Q109849924-22AD9F88-07EA-4793-B0A2-A1DED68251F9
+Q109849924,Charles Kirnon,Charles Kirnon,,,,https://www.gov.ms/government/ministries/ministry-of-health-and-social-services/,2021-12-01,Q109849926,Minister of Health,Q109849924-5BCC30B3-1358-41D7-AD0B-AC108F1AB6BD
+Q109849941,Samuel Joseph,Samuel Joseph,,,,https://www.gov.ms/government/ministries/ministry-of-communications-works-energy-labour/,2021-12-01,Q109849942,"Minister of Communications, Works, Labour & Energy",Q109849941-7937DEA0-A0FB-4CDE-BBB2-FED694B41DDB
+Q71333507,Joseph E. Farrell,Joseph E. Farrell,male,,,https://www.gov.ms/government/ministries/ministry-of-finance-economic-management/,2021-12-01,Q109849932,Minister of Finance,Q71333507-0115A82E-C5DB-4F45-A5B6-BC642D326D14
+Q71333507,Joseph E. Farrell,Joseph E. Farrell,male,,,https://www.gov.ms/government/ministries/office-of-the-premier/,2021-12-01,Q3245464,Premier,Q71333507-B9A2A612-03E7-429F-A4D6-A5C2E490ABB6
