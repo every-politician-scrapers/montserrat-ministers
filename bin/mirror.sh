@@ -13,4 +13,4 @@ for url in $(nokogiri -e "puts @doc.css('h2 a/@href').map(&:text)" ministries.in
   curl $CURLOPTS -o $(basename $url).html $url
 done
 
-cd -
+cd ~-
