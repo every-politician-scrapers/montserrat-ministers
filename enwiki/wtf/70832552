@@ -1,0 +1,101 @@
+{
+  "title": "Charliena White",
+  "pageID": 70832552,
+  "categories": [
+    "Living people",
+    "Speakers of the Legislative Assembly of Montserrat",
+    "21st-century British women politicians",
+    "Women legislative speakers",
+    "Montserratian women in politics",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Charliena White is a Montserratian politician.",
+              "formatting": {
+                "bold": [
+                  "Charliena White"
+                ]
+              }
+            },
+            {
+              "text": "She has been Speaker of the Legislative Assembly of Montserrat since 20 December 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the Legislative Assembly of Montserrat"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Speaker for Montserrat Assembly",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Charlene White",
+            "Charline White",
+            "Sharlene Whyte"
+          ],
+          "template": "distinguish"
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-05-06",
+          "title": "Montserrat speaker Charliena White seeks support from Sir Lindsay Hoyle",
+          "url": "https://www.politicshome.com/thehouse/article/montserrat-speaker-charliena-white-seeks-support-from-sir-lindsay-hoyle",
+          "access-date": "2022-05-21",
+          "website": "Politics Home",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of speakers of the Legislative Council of Montserrat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of speakers of the Legislative Council of Montserrat"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "montserrat-politician-stub"
+        }
+      ]
+    }
+  ]
+}

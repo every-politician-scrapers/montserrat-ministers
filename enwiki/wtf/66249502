@@ -1,0 +1,175 @@
+{
+  "title": "Crenston Buffonge",
+  "pageID": 66249502,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "Montserratian footballers",
+    "Montserrat international footballers",
+    "Association football defenders"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Crenston Buffonge (13 October 1974) is a Montserratian former footballer who played as a defender.",
+              "links": [
+                {
+                  "text": "footballer",
+                  "type": "internal",
+                  "page": "association football"
+                },
+                {
+                  "text": "defender",
+                  "type": "internal",
+                  "page": "Defender (association football)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Crenston Buffonge"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Montserratian footballer",
+          "template": "short description"
+        },
+        {
+          "year": "1974",
+          "month": "10",
+          "day": "13",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Crenston Buffonge"
+          },
+          "birth_date": {
+            "text": "October 13, 1974"
+          },
+          "position": {
+            "text": "Defender",
+            "links": [
+              {
+                "text": "Defender",
+                "type": "internal",
+                "page": "Defender (association football)"
+              }
+            ]
+          },
+          "nationalyears1": {
+            "text": "2000–2004"
+          },
+          "nationalteam1": {
+            "text": "Montserrat",
+            "links": [
+              {
+                "text": "Montserrat",
+                "type": "internal",
+                "page": "Montserrat national football team"
+              }
+            ]
+          },
+          "nationalcaps1": {
+            "text": "3",
+            "number": 3
+          },
+          "nationalgoals1": {
+            "text": "0",
+            "number": 0
+          }
+        }
+      ]
+    },
+    {
+      "title": "International career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Buffonge played for Montserrat in 2000 against the Dominican Republic in both legs of the qualifiers for the 2002 FIFA World Cup.",
+              "links": [
+                {
+                  "text": "Montserrat",
+                  "type": "internal",
+                  "page": "Montserrat national football team"
+                },
+                {
+                  "text": "Dominican Republic",
+                  "type": "internal",
+                  "page": "Dominican Republic national football team"
+                },
+                {
+                  "text": "qualifiers",
+                  "type": "internal",
+                  "page": "2002 FIFA World Cup qualification (CONCACAF)",
+                  "anchor": "Group 3"
+                },
+                {
+                  "text": "2002 FIFA World Cup",
+                  "type": "internal",
+                  "page": "2002 FIFA World Cup"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Buffonge, Crenston",
+          "url": "https://www.national-football-teams.com/player/4455/Crenston_Buffonge.html",
+          "website": "national-football-teams",
+          "access-date": "31 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Profile on worldfootball.net",
+            "links": [
+              {
+                "text": "Profile on worldfootball.net",
+                "type": "external",
+                "site": "https://www.worldfootball.net/player_summary/crenston-buffonge/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
